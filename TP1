@@ -1,0 +1,80 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+ <title>Mon emploi du temps</title>
+</head>
+<body>
+<h2 align="center">Emploi du temps</h2>
+<P align="right">2025-2026</P>
+<table border="1">
+<tr>
+ <th>Heure</th>
+ <th>09:00 - 09:30</th>
+ <th>09:30 - 11:00</th>
+ <th>11:00 - 12:30</th>
+ <th>12:30 - 14:00</th>
+ <th>14:00 - 15:30</th>
+ <th>15:30 - 17:00</th>
+</tr>
+
+<tr>
+ <td >Lundi</td>
+ <td >Programmation Paython 2</td>
+ <td>Algorithme Et Programmation C 2</td>
+ <td bgcolor="gray"></td>
+ <td>Algorithme Et Programmation C 2 TD G1</td>
+ <td>Programmation Paython 2 TD G3 </td>
+ <td>Programmation Paython 2 TD G2 </td>
+</tr>
+
+<tr>
+ <td>Mardi</td>
+ <td>Programmation Paython 2 TD G1</td>
+ <td bgcolor="gray"></td>
+ <td>Digital Skills & Intelligence Artificielle</td>
+ <td>Digital Skills & Intelligence Artificielle TD</td>
+ <td bgcolor="gray"></td>
+ <td bgcolor="gray"></td>
+</tr>
+
+<tr>
+ <td>Mercredi</td>
+ <td bgcolor="gray"></td>
+ <td bgcolor="gray"></td>
+ <td bgcolor="gray"></td>
+ <td>Algorithme Et Programmation C 2 TD G2</td>
+ <td>Algèbre 2 TD</td>
+ <td>Analyse 2 TD</td>
+</tr>
+
+<tr>
+ <td>Jendi</td>
+ <td>Traitement Du Signal</td>
+ <td>Traitement Du Signal TD</td>
+ <td bgcolor="gray"></td>
+ <td bgcolor="gray"></td>
+ <td bgcolor="gray"></td>
+ <td bgcolor="gray"></td>
+</tr>
+
+<tr>
+ <td >Vendredi</td>
+ <td>Algèbre 2</td>
+ <td>Analyse 2</td>
+ <td bgcolor="gray "></td>
+ <td bgcolor="gray"></td>
+ <td bgcolor="gray"></td>
+ <td bgcolor="gray"></td>
+</tr>
+
+<tr>
+ <td>samedi</td>
+ <td bgcolor="gray"></td>
+ <td bgcolor="gray"></td>
+ <td bgcolor="gray"></td>
+ <td>Programmation Web TP G2</td>
+ <td>Programmation Web</td>
+ <td>Programmation Web TP G1</td>
+</tr>
+</table>
