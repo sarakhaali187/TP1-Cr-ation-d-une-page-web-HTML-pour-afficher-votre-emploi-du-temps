@@ -5,76 +5,129 @@
  <title>Mon emploi du temps</title>
 </head>
 <body>
-<h2 align="center">Emploi du temps</h2>
-<P align="right">2025-2026</P>
-<table border="1">
+<img src="logo.jpeg" width="400" height="100" align="centre">
+<h4 align="right"> <u>Année Universitaire 2025-2026</u></h4>
+<img src="signature.jpeg" width="150" height="70">
+<h2 align="center">Emploi Du Temps « Provisoire » -IAIL- S2</h2>
+<table border="1" align="center">
 <tr>
- <th>Heure</th>
- <th>09:00 - 09:30</th>
- <th>09:30 - 11:00</th>
- <th>11:00 - 12:30</th>
- <th>12:30 - 14:00</th>
- <th>14:00 - 15:30</th>
- <th>15:30 - 17:00</th>
+ <th bgcolor="lightgray">Heure</th>
+ <th bgcolor="lightgray">09:00 - 09:30</th>
+ <th bgcolor="lightgray">09:30 - 11:00</th>
+ <th bgcolor="lightgray">11:00 - 12:30</th>
+ <th bgcolor="lightgray">12:30 - 14:00</th>
+ <th bgcolor="lightgray">14:00 - 15:30</th>
+ <th bgcolor="lightgray">15:30 - 17:00</th>
 </tr>
 
 <tr>
- <td >Lundi</td>
- <td >Programmation Paython 2</td>
- <td>Algorithme Et Programmation C 2</td>
- <td bgcolor="gray"></td>
- <td>Algorithme Et Programmation C 2 TD G1</td>
- <td>Programmation Paython 2 TD G3 </td>
- <td>Programmation Paython 2 TD G2 </td>
+ <th bgcolor="lightgray">Lundi</th>
+ <td >Programmation Paython2
+    Prof M.Laraqui
+    Cours - Amphi A
+ </td>
+ <td>Algorithme Et Programmation C2
+    Prof H.Oudani
+    Cours - Amphi A
+ </td>
+ <td></td>
+ <td>Algorithme Et Programmation C2
+    TD G1-Salle P2
+    Prof H.Oudani
+ </td>
+ <td>Programmation Paython2
+    TD G3-Salle P2
+    Prof A.Elouardi
+ </td>
+ <td>Programmation Paython2
+    TD G2-Salle P2
+    Prof A.Elouardi
+ </td>
 </tr>
 
 <tr>
- <td>Mardi</td>
- <td>Programmation Paython 2 TD G1</td>
- <td bgcolor="gray"></td>
- <td>Digital Skills & Intelligence Artificielle</td>
- <td>Digital Skills & Intelligence Artificielle TD</td>
- <td bgcolor="gray"></td>
- <td bgcolor="gray"></td>
+ <th bgcolor="lightgray">Mardi</th>
+ <td>Programmation Paython2
+    TD G1-Salle P2
+    Prof A.Elouardi
+ </td>
+ <td></td>
+ <td>Digital Skills & Intelligence Artificielle
+    Prof A.Elouardi
+    Cours - Amphi A 
+ </td>
+ <td>Digital Skills & Intelligence Artificielle
+    Prof A.Elouardi
+    TD - Amphi A </td>
+ <td></td>
+ <td></td>
 </tr>
 
 <tr>
- <td>Mercredi</td>
- <td bgcolor="gray"></td>
- <td bgcolor="gray"></td>
- <td bgcolor="gray"></td>
- <td>Algorithme Et Programmation C 2 TD G2</td>
- <td>Algèbre 2 TD</td>
- <td>Analyse 2 TD</td>
+ <th bgcolor="lightgray">Mercredi</th>
+ <td></td>
+ <td></td>
+ <td></td>
+ <td>Algorithme Et Programmation C2
+    TD G2-Salle P2
+    Prof H.Oudani
+ </td>
+ <td>Algèbre 2
+    Prof I.Boutaayamo
+    TD - Amphi A </td>
+ <td>Analyse 2
+    Prof A.hadri
+    TD - Amphi A </td>
 </tr>
 
 <tr>
- <td>Jendi</td>
- <td>Traitement Du Signal</td>
- <td>Traitement Du Signal TD</td>
- <td bgcolor="gray"></td>
- <td bgcolor="gray"></td>
- <td bgcolor="gray"></td>
- <td bgcolor="gray"></td>
+ <th bgcolor="lightgray">Jendi</th>
+ <td>Traitement Du Signal
+    Prof H.Azzahhafi
+    Cours - Amphi A
+ </td>
+ <td>Traitement Du Signal
+    TD - Amphi A
+    Prof H.Azzahhafi
+ </td>
+ <td></td>
+ <td></td>
+ <td></td>
+ <td></td>
 </tr>
 
 <tr>
- <td >Vendredi</td>
- <td>Algèbre 2</td>
- <td>Analyse 2</td>
- <td bgcolor="gray "></td>
- <td bgcolor="gray"></td>
- <td bgcolor="gray"></td>
- <td bgcolor="gray"></td>
+ <th bgcolor="lightgray">Vendredi</th>
+ <td>Algèbre 2
+    Prof I.Boutaayamo
+    Cours - Amphi A
+ </td>
+ <td>Analyse 2
+    Prof A.hadri
+    Cours - Amphi A
+ </td>
+ <td></td>
+ <td></td>
+ <td></td>
+ <td></td>
 </tr>
 
 <tr>
- <td>samedi</td>
- <td bgcolor="gray"></td>
- <td bgcolor="gray"></td>
- <td bgcolor="gray"></td>
- <td>Programmation Web TP G2</td>
- <td>Programmation Web</td>
- <td>Programmation Web TP G1</td>
+ <th bgcolor="lightgray">samedi</th>
+ <td></td>
+ <td></td>
+ <td></td>
+ <td>Programmation Web
+    TD G2-Salle P2
+    Prof A.Hakem
+ </td>
+ <td>Programmation Web
+    Cours-Salle P1
+    Prof A.Hakem
+ </td>
+ <td>Programmation Web
+    TD G1-Salle P2
+    Prof A.Hakem
+ </td>
 </tr>
 </table>
