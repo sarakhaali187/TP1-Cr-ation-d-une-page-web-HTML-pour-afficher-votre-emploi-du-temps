@@ -3,11 +3,13 @@
 <head>
  <title>Mon emploi du temps</title>
 </head>
+
 <body>
-<img src="logo.jpeg" width="400" height="100" align="centre">
-<h4 align="right"> <u>Année Universitaire 2025-2026</u></h4>
+<img src="logo.jpeg"  width="400" height="100" align="right">
 <img src="signature.jpeg" width="150" height="70">
-<h2 align="center">Emploi Du Temps « Provisoire » -IAIL- S2</h2>
+<h4> <u>Année Universitaire 2025-2026</u></h4>
+<h3 align="center">Emploi Du Temps « Provisoire » -IAIL- S2</h3>
+
 <table border="1" align="center">
 <tr>
  <th bgcolor="lightgray">Heure</th>
@@ -57,7 +59,8 @@
  </td>
  <td>Digital Skills & Intelligence Artificielle
     Prof A.Elouardi
-    TD - Amphi A </td>
+    TD - Amphi A
+ </td>
  <td></td>
  <td></td>
 </tr>
@@ -73,10 +76,12 @@
  </td>
  <td>Algèbre 2
     Prof I.Boutaayamo
-    TD - Amphi A </td>
+    TD - Amphi A
+ </td>
  <td>Analyse 2
     Prof A.hadri
-    TD - Amphi A </td>
+    TD - Amphi A
+ </td>
 </tr>
 
 <tr>
@@ -129,4 +134,7 @@
     Prof A.Hakem
  </td>
 </tr>
+
 </table>
+</body>
+</html>
